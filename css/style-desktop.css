@@ -176,6 +176,10 @@
 			
 			.feature-list.small
 			{
+				left:50%;
+				margin-right: auto;
+				margin-left: auto;
+				position: relative;
 			}
 			
 				.feature-list.small h3
